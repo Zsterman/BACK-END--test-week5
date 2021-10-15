@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://i.postimg.cc/XqFsD7vc/wallpaper-neon.jpg');
+
+};
+
+
+
+.button-container{
+    display:flex;
+    align-items: center;
+    
+}
+
+.buttons{
+    color:red;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    border-radius: 25px;
+
+}
+
+.buttons:hover{
+    cursor: pointer;
+}
